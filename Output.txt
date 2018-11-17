@@ -1,6 +1,151 @@
+------------------------------------------------------
+Score per section per student
+------------------------------------------------------
 John 25.0 5.0 4.5 5.0 4.0 5.0 10.0 10.0 6.0 9.5 5.5 
 Jim 25.0 5.0 4.0 5.0 4.5 5.0 10.0 4.0 10.0 9.5 7.5 
 Kathy 15.0 1.0 3.0 2.0 1.0 1.5 8.0 2.0 4.0 3.0 4.0 
 Steve 21.0 5.0 3.0 2.0 1.0 4.0 5.0 6.0 7.0 8.0 8.0 
 Stacy 15.0 5.0 1.0 1.0 1.0 5.0 3.0 8.0 9.0 5.0 7.0 
 Faith 16.0 3.0 4.0 2.0 4.0 4.0 7.0 5.0 2.0 3.0 8.0 
+------------------------------------------------------
+
+------------------------------------------------------
+Minimum, Maximum and Average per question
+------------------------------------------------------
+Q1
+  Minimum: 15.0
+	 Kathy Stacy
+  Maximum: 25.0
+	 John Jim
+  Average: 19.5
+
+Q2
+  Minimum: 1.0
+	 Kathy
+  Maximum: 5.0
+	 John Jim Steve Stacy
+  Average: 4.0
+
+Q3
+  Minimum: 1.0
+	 Stacy
+  Maximum: 4.5
+	 John
+  Average: 3.25
+
+Q4
+  Minimum: 1.0
+	 Stacy
+  Maximum: 5.0
+	 John Jim
+  Average: 2.83
+
+Q5
+  Minimum: 1.0
+	 Kathy Steve Stacy
+  Maximum: 4.5
+	 Jim
+  Average: 2.58
+
+Q6
+  Minimum: 1.5
+	 Kathy
+  Maximum: 5.0
+	 John Jim Stacy
+  Average: 4.08
+
+Q7
+  Minimum: 3.0
+	 Stacy
+  Maximum: 10.0
+	 John Jim
+  Average: 7.17
+
+Q8
+  Minimum: 2.0
+	 Kathy
+  Maximum: 10.0
+	 John
+  Average: 5.83
+
+Q9
+  Minimum: 2.0
+	 Faith
+  Maximum: 10.0
+	 Jim
+  Average: 6.33
+
+Q10
+  Minimum: 3.0
+	 Kathy Faith
+  Maximum: 9.5
+	 John Jim
+  Average: 6.33
+
+Q11
+  Minimum: 4.0
+	 Kathy
+  Maximum: 8.0
+	 Steve Faith
+  Average: 6.67
+
+------------------------------------------------------
+
+------------------------------------------------------
+Score per section per student
+------------------------------------------------------
+John 25.0 23.5 41.0 
+Jim 25.0 23.5 41.0 
+Kathy 15.0 8.5 21.0 
+Steve 21.0 15.0 34.0 
+Stacy 15.0 13.0 32.0 
+Faith 16.0 17.0 25.0 
+------------------------------------------------------
+
+------------------------------------------------------
+Minimum, Maximum and Average per Section
+------------------------------------------------------
+Section: 1
+  Minimum: 15.0
+	 Kathy Stacy
+  Maximum: 25.0
+	 John Jim
+  Average: 19.5
+
+Section: 2
+  Minimum: 8.5
+	 Kathy
+  Maximum: 23.5
+	 John Jim
+  Average: 16.75
+
+Section: 3
+  Minimum: 21.0
+	 Kathy
+  Maximum: 41.0
+	 John Jim
+  Average: 32.33
+
+------------------------------------------------------
+
+------------------------------------------------------
+Total overall score per student
+------------------------------------------------------
+John 89.5 
+Jim 89.5 
+Kathy 44.5 
+Steve 70.0 
+Stacy 60.0 
+Faith 58.0 
+------------------------------------------------------
+
+------------------------------------------------------
+Minimum, Maximum and Average per Total
+------------------------------------------------------
+Total: 
+  Minimum: 44.5
+	 Kathy
+  Maximum: 89.5
+	 John Jim
+  Average: 68.58
+------------------------------------------------------
